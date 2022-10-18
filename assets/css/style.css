@@ -1,0 +1,26 @@
+h1{
+   text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+main{
+    max-width: 1025px;
+    margin: auto;
+}
+
+.bismillah{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
+

@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    background-color: rgba(24, 24, 24);
+    display: flex;
+}
+
+.logo img{
+   width: 250px;
+   height: 100px;
+   padding: 20px;
+}
+
+.btn{
+    height: 50%;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.search-bar{
+    margin-top: 40px;
+    width: 100%;
+}
+
+nav{
+    text-align: center;
+    padding: 10px;
+    background-color: red;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+}
