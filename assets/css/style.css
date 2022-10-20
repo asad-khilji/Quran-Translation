@@ -24,3 +24,13 @@ main{
     text-align: left;
 }
 
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-5{
+    flex-basis: 20%;
+}
+
